@@ -158,7 +158,7 @@ a{
     border: 1px solid #ff6700;
     border-top:0;
     z-index:2;
-    display:none；
+    display:none;
 }
 .sousuoxiala1{
     width: 243px;
@@ -809,6 +809,12 @@ font-size: 22px;
 .diantu-xia .dianzi1{
     margin-top: 20px;
 }
+
+
+
+
+
+
 /* 热评产品 */
 .reping-box{
     width: 1226px;
@@ -822,12 +828,79 @@ font-size: 22px;
     background-color: #fff;
     margin-left: 14px;
     margin-bottom: 14px;
+    position: relative;
 }
 .dan{
     width: 296px;
     height: 415px;
     background-color: #fff;
+    position: relative;
 }
+.fujiantou1{
+    width: 20px;
+    height: 48px;
+    background-color: #fff;
+    position: absolute;
+    top: 183px;
+    left: 0;
+    /* display:none; */
+}
+.fujiantou2{
+    width: 20px;
+    height: 48px;
+    background-color: #fff;
+    position: absolute;
+    top: 183px;
+    right: 0;
+    /* display:none; */
+}
+.fujiantou1 i{
+    font-size: 18px;
+    line-height: 48px;
+    color: #fff;
+    font-weight: 800;
+}
+.fujiantou2 i{
+    font-size: 18px;
+    line-height: 48px;
+    color: #fff;
+    font-weight: 800;
+}
+.dan:hover .fujiantou1{
+    background-color: rgba(66,66,66,0.2);
+}
+.dan:hover .fujiantou2{
+    background-color: rgba(66,66,66,0.2);
+}
+.reping:hover .fujiantou1{
+    background-color: rgba(66,66,66,0.2);
+}
+.reping:hover .fujiantou2{
+    background-color: rgba(66,66,66,0.2);
+}
+.reping .fujiantou1:hover{
+    background-color: #b0b0b0;
+    transition: 0.5s;
+}
+.reping .fujiantou2:hover{
+    background-color: #b0b0b0;
+    transition: 0.5s;
+}
+.dan .fujiantou2:hover{
+    background-color: #b0b0b0;
+    transition: 0.5s;
+}
+.dan .fujiantou1:hover{
+    background-color: #b0b0b0;
+    transition: 0.5s;
+}
+
+
+
+
+
+
+
 .dingtu{
     width: 296px;
     height: 220px;
@@ -1028,7 +1101,53 @@ font-size: 22px;
     width: 100%;
     height: 180px;
     /* background-color: #ffac13; */
+    position: relative;
 }
+.bofang{
+    width: 32px;
+    height: 20px;
+    border: 2px solid #fff;
+    border-radius:20px;
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+    /* padding-bottom: 5px; */
+    /* box-sizing: border-box; */
+}
+.bofang i{
+    color: #fff;
+    font-size: 12px;
+    position: absolute;
+    bottom: 4px;
+    left: 12px;
+}
+.shipin2:hover .bofang{
+    background-color: #ff6700;
+    border: 2px solid #ff6700;
+}
+.ashipin:hover{
+    transform: translateY(-5px);
+    box-shadow:0 0 6px 6px #f0f0f0;
+    transition: 0.3s;
+    cursor:pointer;
+}
+.shipin1:hover{
+    transform: translateY(-5px);
+    box-shadow:0 0 6px 6px #f0f0f0;
+    transition: 0.3s;
+    cursor:pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
 .shipin3{
     width: 100%;
     height: 21px;
