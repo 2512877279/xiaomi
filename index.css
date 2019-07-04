@@ -9,7 +9,6 @@ a{
 .cebian{
     width: 27px;
     height: 256px;
-    /* background-color: #83c44e; */
     position: fixed;
     right:34px;
     bottom:50px;
@@ -18,7 +17,6 @@ a{
 .cebianshang{
     width: 27px;
     height: 201px;
-    /* background-color: #ffac13; */
 }
 .rwu{
     border-top: 1px solid #f5f5f5;
@@ -57,13 +55,6 @@ a{
 .fanhui:hover i{
     color: #ff6700;
 }
-
-
-
-
-
-
-
 /* 标签 */
 .header{
     width: 100%;
@@ -74,18 +65,14 @@ a{
     width: 1226px;
     height: 40px;
     margin: 0 auto;
-    /* background-color: yellow; */
 }
 .header-left{
     width: 65%;
     height: 40px;
-    /* background-color: olivedrab; */
     float: left;
 }
 .header-right1{
-    /* width: 20%; */
     height: 40px;
-    /* background-color: aqua; */
     float: right;
 }
 .header-left a{
@@ -147,7 +134,6 @@ a{
 .xiaomitou1{
     width: 55px;
     height: 55px;
-    background-color: #2196f3;
     margin-top: 22px;
     margin-right: 7px;
     float: left;
@@ -166,7 +152,6 @@ a{
     box-sizing: border-box;
 }
 .xiaomitou3{
-    /* height:88px; */
     float: left;
     padding: 26px 10px 38px;
     font-size: 16px;
@@ -178,7 +163,6 @@ a{
 .sousuo{
     width: 296px;
     height: 50px;
-    /* background-color: #83c44e; */
     float: right;
     margin-top: 25px;
 }
@@ -205,7 +189,6 @@ a{
     font-size: 24px;
     color: #616161;
     line-height: 50px;
-    /* text-align: center; */
     margin-left: 5px;
 }
 .sousuoxiala{
@@ -248,11 +231,6 @@ a{
     color: #fff;  
 }
 
-
-
-
-
-
 /* 轮播图 */
 .lunbodian{
     width: 200px;
@@ -260,7 +238,6 @@ a{
     position: relative;
     right: -1000px;
     bottom: -420px;
-    /* background-color: #e53935; */
     z-index:3;
 }
 .lunbodi{
@@ -279,7 +256,6 @@ a{
 .lunbo1{
     width: 1226px;
     height: 460px;
-    /* background-color: aquamarine; */
     margin: 0 auto;
     position: relative;
 }
@@ -310,17 +286,14 @@ a{
 }
 .lunbo2 i{
     font-size: 15px;
-    /* line-height: 42px; */
     position: absolute;
     top: 12px;
     right: 20px;
-    /* font-size: 16px; */
     line-height: 18px;
 }
 .lunbotu{
     width: 1226px;
     height: 460px;
-    background-color: #ff6700;
     position: absolute;
     right: 0;
     top: 0;
@@ -336,17 +309,14 @@ a{
 .lunbo1 .jiantouzuo{
     width: 41px;
     height: 69px;
-    /* background-color: blueviolet; */
     position: absolute;
     left: 234px;
-    /* height: 230px; */
     top: 195px;
     z-index: 2;
 }
 .lunbo1 .jiantouyou{
     width: 41px;
     height: 69px;
-    /* background-color: blueviolet; */
     position: absolute;
     z-index: 2;
     right: 0;
@@ -376,7 +346,6 @@ a{
     width: 1226px;
     height: 170px;
     margin: 0 auto;
-    /* background-color: aquamarine; */
     margin-top: 14px;
 
 }
@@ -501,7 +470,6 @@ a{
 .dashouji{
     width: 234px;
     height: 614px;
-    background-color: brown;
     float: left;
 }
 .dashouji:hover{
@@ -561,7 +529,6 @@ a{
 .xiao1{
     width: 160px;
     height: 160px;
-    /* background-color: chartreuse; */
     margin: 0 auto 20px;
     
     /* display: block; */
@@ -594,11 +561,9 @@ a{
 .dianshi{
     width: 1226px;
     height: 120px;
-    background-color: #ff6700;
     margin: 20px auto 20px;
 }
 .dianshi img{
-    /* width: 1226px; */
     height: 120px;
 }
 .zi{
@@ -609,8 +574,6 @@ a{
 }
 
 .zuo{
-    /* width: 10%; */
-    /* height: 100%; */
     float: left;
     line-height: 58px;
     font-size: 22px;
@@ -618,8 +581,7 @@ a{
 .you{
     float: right;
     margin: 16px auto;
-    color: #333
-    /* list-style: none; */
+    color: #333;
 }
 .you a{
     color: #333;
@@ -686,17 +648,11 @@ a{
 li{
     width: 234px;
     height: 614px;
-    /* background-color: #f5f5f5; */
     float: left;
 }
-
-
-
-
 .zuotu-1{
     width: 234px;
     height: 300px;
-    background-color: deeppink;
     margin-bottom: 14px;
 }
 .zuotu-1:hover{
@@ -706,7 +662,6 @@ li{
 }
 .zuotu-2{
     height: 300px;
-    background-color: deeppink;
 }
 .zuotu-2:hover{
     transform: translateY(-5px);
@@ -773,16 +728,13 @@ li{
 .smao-box{
     width: 80px;
     height: 80px;
-    background-color: chartreuse;
     margin:34px 20px 0 0;
     float: right;
 }
 .smao-box1{
     width: 94px;
     height: 20px;
-    /* background-color: deeppink; */
     margin-left: 30px;
-    /* float:left; */
     margin-top: 40px;
     font-size: 14px;
     text-overflow: ellipsis;
@@ -807,7 +759,6 @@ li{
 .smao-box3{
     width: 94px;
     height: 20px;
-    /* background-color: deeppink; */
     margin-left: 30px;
     /* float:left; */
     margin-top: 40px;
@@ -895,12 +846,6 @@ font-size: 22px;
 .diantu-xia .dianzi1{
     margin-top: 20px;
 }
-
-
-
-
-
-
 /* 热评产品 */
 .reping-box{
     width: 1226px;
@@ -929,7 +874,6 @@ font-size: 22px;
     position: absolute;
     top: 183px;
     left: 0;
-    /* display:none; */
 }
 .fujiantou2{
     width: 20px;
@@ -938,7 +882,6 @@ font-size: 22px;
     position: absolute;
     top: 183px;
     right: 0;
-    /* display:none; */
 }
 .fujiantou1 i{
     font-size: 18px;
@@ -980,30 +923,20 @@ font-size: 22px;
     background-color: #b0b0b0;
     transition: 0.5s;
 }
-
-
-
-
-
-
-
 .dingtu{
     width: 296px;
     height: 220px;
-    background-color: blue;
 }
 .xiazi1{
     width: 240px;
     height: 72px;
     margin: 22px 28px;
-    /* background-color: darkolivegreen; */
     font-size: 14px;
     color: #333;
 }
 .xiazi2{
     width: 240px;
     height: 18px;
-    /* background-color: darkolivegreen; */
     margin: 0 28px 8px 28px;
     padding-right: 10px;
     font-size: 12px;
@@ -1012,18 +945,15 @@ font-size: 22px;
 .xiazi3{
     width: 265px;
     height: 23px;
-    /* background-color: darkolivegreen; */
     margin-left: 28px;
 }
 .p{
     width: 4px;
-    /* margin-bottom: 5px; */
     display: inline-block;
 }
 .xiaozi4{
     width: 170px;
     height: 23px;
-    /* background-color: chartreuse; */
     display:inline-block;
     text-overflow: ellipsis;
     overflow: hidden;
@@ -1038,12 +968,8 @@ font-size: 22px;
 .xiaozi6{
     width: 60px;
     height: 19px;
-    /* background-color: chartreuse; */
     display:inline-block;
     margin-top: 2px;
-    /* text-overflow: ellipsis;
-    overflow: hidden;
-    white-space: nowrap; */
     color: #ff6700;
     font-size: 14px;
     float: left;
@@ -1065,27 +991,6 @@ font-size: 22px;
     width: 100%;
     border-top: 1px solid #2196f3;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .dingtu img{
     width: 296px;
 }
@@ -1099,7 +1004,6 @@ font-size: 22px;
     width: 276px;
     height: 24px;
     margin: 0 10px 18px 10px;
-    /* background-color: aquamarine; */
     font-size: 16px;
     text-align: center;
     font-weight: 400px;
@@ -1108,7 +1012,6 @@ font-size: 22px;
 .r2{
     width: 256px;
     height: 25px;
-    /* background-color: blue; */
     display:inline-block;
     margin: 0 20px;
     font-size: 20px;
@@ -1122,7 +1025,6 @@ font-size: 22px;
     width: 200px;
     height: 40px;
     margin: 0 48px 10px 48px;
-    /* background-color: black; */
     font-size: 12px;
     color: #b0b0b0;
     text-align: center;
@@ -1144,7 +1046,6 @@ font-size: 22px;
     height: 154px;
     display:inline-block;
     margin-left: 40px;
-    /* background-color: crimson; */
 }
 .r5 img{
     width: 217px;
@@ -1153,12 +1054,10 @@ font-size: 22px;
     width: 106px;
     height: 30px;
     margin: 20px 0 0 95px;
-    /* background-color: #ffac13; */
 }
 .r7{
     width: 30px;
     height: 30px;
-    /* background-color: aqua; */
     margin: 0 2px;
     float: left;
     padding: 10px;
@@ -1184,7 +1083,6 @@ font-size: 22px;
     width: 276px;
     height: 24px;
     margin: 0 10px 18px 10px;
-    /* background-color: aquamarine; */
     font-size: 16px;
     text-align: center;
     font-weight: 400px;
@@ -1194,7 +1092,6 @@ font-size: 22px;
     width: 276px;
     height: 24px;
     margin: 0 10px 18px 10px;
-    /* background-color: aquamarine; */
     font-size: 16px;
     text-align: center;
     font-weight: 400px;
@@ -1204,7 +1101,6 @@ font-size: 22px;
     width: 276px;
     height: 24px;
     margin: 0 10px 18px 10px;
-    /* background-color: aquamarine; */
     font-size: 16px;
     text-align: center;
     font-weight: 400px;
@@ -1214,7 +1110,6 @@ font-size: 22px;
 .shipin{
     width: 1226px;
     height: 350px;
-    /* background-color: #83c44e; */
     margin: 0 auto;
 
 }
@@ -1232,7 +1127,6 @@ font-size: 22px;
 .shipin2{
     width: 100%;
     height: 180px;
-    /* background-color: #ffac13; */
     position: relative;
 }
 .bofang{
@@ -1243,8 +1137,6 @@ font-size: 22px;
     position: absolute;
     bottom: 10px;
     left: 20px;
-    /* padding-bottom: 5px; */
-    /* box-sizing: border-box; */
 }
 .bofang i{
     color: #fff;
@@ -1269,28 +1161,15 @@ font-size: 22px;
     transition: 0.3s;
     cursor:pointer;
 }
-
-
-
-
-
-
-
-
-
-
-
 .shipin3{
     width: 100%;
     height: 21px;
-    /* background-color: #e53935; */
     margin: 30px 0 6px 0;
     text-align: center;
 }
 .shipin4{
     width: 100%;
     height: 18px;
-    /* background-color: aquamarine; */
     font-size: 12px;
     color: #b0b0b0;
     text-align: center;
@@ -1302,7 +1181,6 @@ font-size: 22px;
     width: 1226px;
     height: 80px;
     margin: 0 auto;
-    padding: 27px 0;
     border-bottom: 1px solid #e0e0e0;
 }
 .weixiu{
@@ -1310,7 +1188,6 @@ font-size: 22px;
     height: 25px;
     text-align: center;
     float: left;
-    /* line-height: 80px; */
     margin: 30px 0;
 }
 .weixiu-1{
@@ -1319,7 +1196,6 @@ font-size: 22px;
     text-align: center;
     float: left;
     border-left: 1px solid #e0e0e0;
-    /* line-height: 80px; */
     margin: 30px 0;
 }
 .weixiu2{
@@ -1386,31 +1262,20 @@ weixiu-1 {
     transition: 0.2s;
     cursor:pointer;
 }
-
-
-
-
-
-
-
-
 .bai2{
     width: 1226px;
     height: 192px;
     margin: 0 auto;
-    /* background-color: #e53935; */
     padding: 40px 0;
     box-sizing: border-box;
 }
 .bai3{
     width: 962px;
-    /* height: 192px; */
     float: left;
 }
 .bangzhu{
     width: 160px;
     height: 17px;
-    /* background-color: #2196f3; */
     margin-bottom: 26px;
     font-size: 14px;
     color: #424242;
@@ -1418,14 +1283,12 @@ weixiu-1 {
 .fuwu{
     width: 252px;
     height: 112px;
-    /* background-color: aqua; */
     float: right;
     margin-left: 12px;
 }
 .xianxia{
     width: 160px;
     height: 18px;
-    /* background-color: blanchedalmond; */
     margin-bottom: 10px;
     float: left;
     font-size: 12px;
@@ -1479,7 +1342,6 @@ weixiu-1 {
 .wei2{
     width: 57px;
     height: 57px;
-    background-color: #e53935;
     margin: 0 10px 31px 0;
     float: left;
 }
